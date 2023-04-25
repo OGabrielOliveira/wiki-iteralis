@@ -135,7 +135,7 @@ wfLoadSkin( 'MinervaNeue' );
 wfLoadSkin( 'MonoBook' );
 wfLoadSkin( 'Timeless' );
 wfLoadSkin( 'Vector' );
-wfLoadSkin( 'Cosmos' );
+// wfLoadSkin( 'Cosmos' );
 
 # Enabled extensions. Most of the extensions are enabled by adding
 # wfLoadExtension( 'ExtensionName' );
